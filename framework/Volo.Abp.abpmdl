@@ -166,6 +166,14 @@
       "path": "test/Volo.Abp.Data.Tests/Volo.Abp.Data.Tests.abppkg",
       "folder": "test"
     },
+    "Volo.Abp.MultiCompanies.Abstractions": {
+      "path": "src/Volo.Abp.MultiCompanies.Abstractions/Volo.Abp.MultiCompanies.Abstractions.abppkg",
+      "folder": "src"
+    },
+    "Volo.Abp.MultiCompanies": {
+      "path": "src/Volo.Abp.MultiCompanies/Volo.Abp.MultiCompanies.abppkg",
+      "folder": "src"
+    },
     "Volo.Abp.MultiTenancy": {
       "path": "src/Volo.Abp.MultiTenancy/Volo.Abp.MultiTenancy.abppkg",
       "folder": "src"

@@ -137,6 +137,8 @@
     <Project Path="src/Volo.Abp.Minify/Volo.Abp.Minify.csproj" />
     <Project Path="src/Volo.Abp.MongoDB/Volo.Abp.MongoDB.csproj" />
     <Project Path="src/Volo.Abp.MultiLingualObjects/Volo.Abp.MultiLingualObjects.csproj" />
+    <Project Path="src/Volo.Abp.MultiCompanies.Abstractions/Volo.Abp.MultiCompanies.Abstractions.csproj" />
+    <Project Path="src/Volo.Abp.MultiCompanies/Volo.Abp.MultiCompanies.csproj" />
     <Project Path="src/Volo.Abp.MultiTenancy.Abstractions/Volo.Abp.MultiTenancy.Abstractions.csproj" />
     <Project Path="src/Volo.Abp.MultiTenancy/Volo.Abp.MultiTenancy.csproj" />
     <Project Path="src/Volo.Abp.ObjectExtending/Volo.Abp.ObjectExtending.csproj" />
